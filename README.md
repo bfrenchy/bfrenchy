@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bfrenchy
+- 👋 Hi, I’m Ben French
 - 👀 I’m interested in data analysis, research, and development
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me: ben@benfrench.co or /in/bencfrench
