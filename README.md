@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben French
 - 👀 I’m interested in data analysis, research, and development
 - 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me: ben@benfrench.co or /in/bencfrench
+- 📫 How to reach me: ben@benfrench.co or linkedin.com/in/bencfrench
 - I work as a market researcher for Ampere Analysis, and previously worked in business lending
 - I have an an MBA from Pepperdine University and a BA in Economics and Accounting from UC Santa Barbara
 
