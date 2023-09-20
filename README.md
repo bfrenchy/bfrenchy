@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ben
-- 👀 I’m interested in data analysis and development
-- 🌱 I’m currently learning Python and SQL
-- 📫 How to reach me: ben@benfrench.co or linkedin.com/in/bencfrench
+- 👀 Check out some of my work here!
+- 🌱 Python & SQL for app development and data analysis
+- 📫 How to reach me: ben@benfrench.co
 
 <!---
 bfrenchy/bfrenchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
