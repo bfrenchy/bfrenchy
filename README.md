@@ -16,4 +16,5 @@ I have a particular passion for health tech serving individuals directly, rather
 If you'd like to get in touch, please do!
 
 [ben@benfrench.co](mailto:ben@benfrench.co)
+
 [/in/bencfrench][https://www.linkedin.com/in/bencfrench]
